@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Harshit Sharma
 
-🌟 **Passionate Developer | MERN Stack Enthusiast | Open Source Contributor**
+🌟 **Passionate Developer | MERN Stack Enthusiast | JAVA Enthusiast**
 
 ---
 
@@ -8,7 +8,7 @@
 - 🔭 Currently building **MERN stack projects**
 - 🌱 Exploring **Java DSA and Spring Boot**
 - 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Java**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Java, C++**
 - 📫 Reach me on:
   [![LinkedIn Badge](https://img.shields.io/badge/-HarshitSharma-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-588582247/)
   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-harshitsharmab17-black?style=flat-square&logo=leetcode)](https://leetcode.com/u/harshitsharmab17/)
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit17xd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- Removed the overall GitHub Stats card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit17xd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=harshit17xd&theme=dracula" height="150" alt="trophy graph"  />
 </div>
