@@ -6,10 +6,12 @@
 
 ## 🚀 About Me
 - 🔭 Currently building **MERN stack projects**
-- 🌱 Exploring **Cloud, DevOps & Java DSA**
+- 🌱 Exploring **Java DSA and Spring Boot**
 - 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Java, C++**
-- 📫 Reach me on: [![LinkedIn Badge](https://img.shields.io/badge/-HarshitSharma-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/harshit17xd)
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Java**
+- 📫 Reach me on:
+  [![LinkedIn Badge](https://img.shields.io/badge/-HarshitSharma-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-588582247/)
+  [![LeetCode Badge](https://img.shields.io/badge/LeetCode-harshitsharmab17-black?style=flat-square&logo=leetcode)](https://leetcode.com/u/harshitsharmab17/)
 - ⚡ Fun fact: I love turning ideas into products 🚀
 
 ---
@@ -42,6 +44,7 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/harshit17xd"><img src="https://img.shields.io/badge/LinkedIn-HarshitSharma-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:harshit17xd@gmail.com"><img src="https://img.shields.io/badge/Email-harshit17xd-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harshit-sharma-588582247/"><img src="https://img.shields.io/badge/LinkedIn-HarshitSharma-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:harshitsharmab17@gmail.com"><img src="https://img.shields.io/badge/Email-harshitsharmab17-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/harshitsharmab17/"><img src="https://img.shields.io/badge/LeetCode-harshitsharmab17-black?style=flat-square&logo=leetcode"></a>
 </p>
