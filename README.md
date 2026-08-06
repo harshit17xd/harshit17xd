@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as a **Data Engineer Intern at Fresh Gravity**
+- 🔭 Currently working as a **Data Engineer at Fresh Gravity**
 - 🌱 Building expertise in **Databricks, PySpark, Snowflake & Agentic AI**
 - 👯 Open to collaborate on **Data Engineering & Open Source Projects**
 - 💬 Ask me about **PySpark, Databricks, Snowflake, LLMs, Spring Boot, MERN**
